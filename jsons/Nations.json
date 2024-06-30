@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Gardevoir Kingdom",
+		"leaderName": "Beatrice",
+		"adjective": ["Gardevoir"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -12,7 +12,7 @@
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "Greetings Human! my name is Beatrice, leader of the Gardevoir kingdom! I hope we can forge a long lasting frienship!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Luminara","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
