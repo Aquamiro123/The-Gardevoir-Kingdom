@@ -6,33 +6,31 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Glory to you, Beatrice, leader of the Gardevoir kingdom!",
+		"startIntroPart2": "May your leadership bring progress and enlightenment to these lands and take your kind to the stars!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "I'm deeply sorry that we had to resort to violence, but we cannot allow you to disrupt the balance in this world!",
+		"attacked": "So, this is how it is going to be, very well then!",
+		"defeated": "M...my people... I... I'm so sorry... I failed you all...",
 		"introduction": "Greetings Human! my name is Beatrice, leader of the Gardevoir kingdom! I hope we can forge a long lasting frienship!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Welcome Human! I'm glad you came al the way here!",
+		"neutralLetsHearIt": ["OK, let's hear it!","I'm all ears!"],
+		"neutralNo": ["I'm sorry, but we can't accpet that.","Uhm, sorrry but, no."],
+		"neutralYes": ["It's settled then.","Fantastic!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What brings you in here, Human?",
+		"hateLetsHearIt": ["I'm listening."],
+		"hateNo": ["There's no way we can accept that!"],
+		"hateYes": ["Fine","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well then, let there be peace once more..",
+		"tradeRequest": "What do you think of this offer, my friend?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Luminara","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Luminara","Opelucid","Moonlit Glade","Dream Haven","Ethereal Forest","Astral Gardens","VeilWood","Arcane Grove","Silvermoon",
+			"Aurora Fields","Harmony Grove","Psychic Haven","Emerald Enclave","Serene Sanctuary","Tranquil Ridge","Luminous Planes","Celestial City","Radiant Peak","Celestial Falls"]
 	}
 ]
